@@ -43,8 +43,8 @@ ol{
 .topnav {
     background-color: #333;
     overflow: hidden;
-    margin-right: 10%;
-    margin-left: 50%;
+    margin-right: auto;
+    margin-left: auto;
   }
   
   .topnav> a {
