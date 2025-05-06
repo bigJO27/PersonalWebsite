@@ -43,6 +43,7 @@ ol{
 .topnav {
     background-color: #333;
     overflow: hidden;
+    padding-right: 10%;
   }
   
   .topnav> a {
